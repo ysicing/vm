@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ergo vm exec date --ips 11.11.11.11 --ips 11.11.11.12 --pass vagrant
+ergo ops exec date --ip 11.11.11.11 --ip 11.11.11.12 --pass vagrant
